@@ -156,6 +156,23 @@ Judge your own entry by these questions before you submit:
 If the answer is yes four times, submit. Perfection is not the standard for
 a first bounty — a real, finished, honest entry is.
 
+## Mistakes this entry avoided (learn from them for free)
+
+Three traps catch almost every first entry, and this one was built to dodge
+all three:
+
+1. **Starting to build before reading the checks.** If you skip the
+   requirements, you build the wrong thing beautifully. Read first, build
+   second — the checklist in Step 2 exists for exactly this reason.
+2. **Leaving the signup link to the end.** A guide that forgets its referral
+   code is a guide that cannot be tracked. Put the code in on the first
+   draft, in every place it belongs, and verify it by clicking it yourself.
+3. **Submitting at the deadline.** Last-minute submits meet slow uploads,
+   missing links, and failed checks with no time left to fix them. This
+   entry was built to submit early, with time to check the status and fix
+   anything the platform flags. Aim to finish a full day early; use the
+   leftover time to share your referral link with real people instead.
+
 ## Your turn — the five-minute version
 
 1. Sign up at https://make.fun/r/xjn2exgh (code `xjn2exgh`).
